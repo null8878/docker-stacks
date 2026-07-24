@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.production
+.env.staging
+*.log
+*.pid
+volumes/
+data/
+!.gitkeep
+!volumes/.gitkeep
